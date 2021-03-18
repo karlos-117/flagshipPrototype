@@ -20,7 +20,7 @@ var w = c.width = window.innerWidth,
 			
 			dataToConnections: 50,
 			baseSpeed: .01,
-			addedSpeed: .05,
+			addedSpeed: .02,
 			baseGlowSpeed: .01,
 			addedGlowSpeed: .01,
 			
